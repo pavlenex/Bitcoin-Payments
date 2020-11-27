@@ -2,14 +2,13 @@
     
 ## Elements
 
-* [Overview]()
 * [Invoice](another-page.md)
-    * [Payer's Invoice](InvoicePayer.md)    
-    * [Receiver's Invoice](InvoiceReceiver.md)
+    * [Payer's Invoice](/Elements/Invoice/InvoicePayer.md)    
+    * [Receiver's Invoice](/Elements/Invoice/InvoiceReceiver.md)
 
 ## Research
 
-* [Persona](another-page.md)
-    * [Receiver Persona](ReceiverPersona.md)    
-    * [Sender Persona](SenderPersona.md)
-* [Design Sprints](design-sprints.md)
+* [Persona](/Research/Persona/README.md)
+    * [Receiver Persona](/Research/Persona/ReceiverPersona.md)    
+    * [Sender Persona](/Research/Persona/SenderPersona.md)
+* [DesignSprints](/Research/Design Sprints/design-sprints.md)
