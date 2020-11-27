@@ -11,4 +11,4 @@
 * [Persona](/Research/Persona/README.md)
     * [Receiver Persona](/Research/Persona/ReceiverPersona.md)    
     * [Sender Persona](/Research/Persona/SenderPersona.md)
-* [DesignSprints](/Research/Design Sprints/design-sprints.md)
+* [DesignSprints](/Research/DesignSprints/design-sprints.md)
