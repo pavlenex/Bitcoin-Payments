@@ -1,8 +1,4 @@
 # Summary
-
-## Introduction
-
-* [Introduction](README.md)      
     
 ## Elements
 
