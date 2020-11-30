@@ -3,8 +3,6 @@
 ## Elements
 
 * [Invoice](/Elements/Invoice/Invoice.md)
-    * [Payer's Invoice](/Elements/Invoice/InvoicePayer.md)    
-    * [Receiver's Invoice](/Elements/Invoice/InvoiceReceiver.md)
 
 ## Research
 
