@@ -1,23 +1,5 @@
-# Junk
-This doc contains junk text from earlier docs that may be re-used at some point or trashed.
 
-## Invoicing and invoices in Bitcoin payments in a buyer context
-
-This document tries to explain invoices visible on buyer's end in Bitcoin payments. The goal of the *invoice on the sending (buyer) side* is to provide information necessary to pay such invoice. 
-
-## Components of a buyer's invoice (checkout page)
-
-![](./img/InvoicesViewBuyerSide.png)
-
-The basic components of an invoice visible to the buyer are:
-
-* A) QR Code with encoded amount and receiving address
-* B) Timer which sets invoice to expired (to avoid volatility in rates)
-* C) Invoice details (Total Price in fiat, Exchange rate, etc)
-* D) Total amount and an address that can be copied separately (for wallet desktop users)
-* E) Open in a wallet (Pay in a wallet) a button that opens and auto-populates sender's wallet fields
-
-## Common problems buyers have at a checkout 
+# Bitcoin Payments Problems
 
 Regardless of the payment gateway used, there are some common problems that buyers have when they're preforming a checkout.
 
