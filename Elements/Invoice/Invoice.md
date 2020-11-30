@@ -29,7 +29,7 @@ The basic components of an invoice visible to the buyer are:
 * D) Total amount and an address that can be copied separately (for wallet desktop users)
 * E) Open in a wallet (Pay in a wallet) a button that opens and auto-populates sender's wallet fields
 
-[Components of an invoice visible to buyer](./Assets/img/InvoicesViewBuyerSide.png)
+![Components of an invoice visible to buyer](./Assets/img/InvoicesViewBuyerSide.png)
 
 ##### Invoice QR Code
 
