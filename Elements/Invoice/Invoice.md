@@ -101,7 +101,7 @@ Here's an overview of typical data structure on an invoice on the receiver's (me
 ```
 ## Invoice Generation Flow
 
-![Invoice Generation Flow](Assets/img/InvoiceGenerationFlow.png)
+![Invoice Generation Flow](/Assets/img/InvoiceGenerationFlow.png)
 
 ## Challenges
 
