@@ -29,11 +29,17 @@ The basic components of an invoice visible to the buyer are:
 * D) Total amount and an address that can be copied separately (for wallet desktop users)
 * E) Open in a wallet (Pay in a wallet) a button that opens and auto-populates sender's wallet fields
 
-![Components of an invoice visible to buyer](./Assets/img/InvoicesViewBuyerSide.png)
+![Components of an invoice visible to buyer](/Assets/img/InvoicesViewBuyerSide.png)
 
 ##### Invoice QR Code
 
+https://github.com/peakshift/bitcoin-ux/blob/master/payments/qr-codes.md#qr-code
+
 ##### Invoice Timer
+
+Due to violatility in price, invoice generating software aim to lock a particular exchange rate into a certain time-interval (usually 15 minutes). By providing a time-window for invoice payment, you're protecting receiver from price manipulation attack that sender may attempt. 
+
+The invoice timer should clearly indicate a sense of urgency to pay an invoice before the timer expires.
 
 ##### Invoice details
 
