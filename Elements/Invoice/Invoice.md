@@ -37,15 +37,17 @@ https://github.com/peakshift/bitcoin-ux/blob/master/payments/qr-codes.md#qr-code
 
 ##### Invoice Timer
 
-Due to violatility in price, invoice generating software aim to lock a particular exchange rate into a certain time-interval (usually 15 minutes). By providing a time-window for invoice payment, you're protecting receiver from price manipulation attack that sender may attempt. 
+Due to violatility in price, invoice generating softwares aim to lock a particular exchange rate into a certain time-interval (usually 15 minutes). By providing a time-window for invoice payment, you're protecting receiver from price manipulation attack that sender may attempt. 
 
 The invoice timer should clearly indicate a sense of urgency to pay an invoice before the timer expires.
 
 ##### Invoice details
 
+When buyer makes a purchase and goes to the checkout, it's resonable to assume that they'd want to review their invoice details prior to commiting to a purchase. In the invoice detail, it is good practice to show invoice amount, network fee, etc.
+
 ##### Pay from a wallet button
 
-##### Invoice for seller
+### Invoice for a seller
 
 ## Challenges
 
