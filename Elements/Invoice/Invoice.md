@@ -12,8 +12,8 @@ The **purpose** of the invoice is:
 
 ## Categorization
 
-* [Buyer's invoice (payer)](InvoicePayer.md)
-* [Seller's invoice (receiver)](InvoiceReceiver.md)
+* [Buyer's invoice (payer)]
+* [Seller's invoice (receiver)
 
 ### Invoice for a buyer
 
