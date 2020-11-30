@@ -12,12 +12,12 @@ The **purpose** of the invoice is:
 
 ## Categorization
 
-* [Buyer's invoice (payer)]
-* [Seller's invoice (receiver)
+* Buyer's invoice (payer)
+* Seller's invoice (receiver)
 
 ### Invoice for a buyer
 
-The invoice displayed to the buyer should be focused on smooth payment experience. This means clear instructions on how to pay a generated Bitcoin invoice.
+The invoice displayed to the buyer should be focused on a smooth payment experience. This means clear instructions on how to pay a generated Bitcoin invoice with additional 
 
 #### Buyer's invoice components
 
