@@ -30,9 +30,9 @@ The basic components of an invoice visible to the buyer are:
 * Total amount and an address that can be copied separately (for wallet desktop users)
 * Open in a wallet (Pay in a wallet) a button that opens and auto-populates sender's wallet fields
 
-![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceScanTab.png)
+![Components of an invoice visible to buyer](/Assets/img/Elements/Invoice/InvoiceScanTab.png)
 
-![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceCopyTab.png)
+![Components of an invoice visible to buyer](/Assets/img/Elements/Invoice/InvoiceCopyTab.png)
 
 ##### Invoice QR Code
 
@@ -48,9 +48,9 @@ The invoice timer should clearly indicate a sense of urgency to pay an invoice b
 
 When buyer makes a purchase and goes to the checkout, it's resonable to assume that they'd want to review their invoice details prior to commiting to a purchase. In the invoice detail, it is good practice to show invoice amount, network fee, etc.
 
-![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceScanTabInvoideDetails.png)
+![Components of an invoice visible to buyer](/Assets/img/Elements/Invoice/InvoiceScanTabInvoideDetails.png)
 
-![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceCopyTabInvoideDetails.png)
+![Components of an invoice visible to buyer](/Assets/img/Elements/Invoice/InvoiceCopyTabInvoideDetails.png.png)
 
 ##### Pay from a wallet button
 
