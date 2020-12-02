@@ -10,6 +10,7 @@ The **purpose** of the invoice is:
 - To serve during order fulfilment to a seller
 - To help during accounting, troubleshooting and audits
 
+
 ## Categorization
 
 * Buyer's invoice (payer)
@@ -51,7 +52,6 @@ When buyer makes a purchase and goes to the checkout, it's resonable to assume t
 
 ![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceCopyTabInvoideDetails.png)
 
-
 ##### Pay from a wallet button
 
 ### Invoice for a seller
@@ -69,6 +69,16 @@ The invoice that’s appearing on merchant end needs to provide data relevant fo
 **Order fulfillment** data is relevant data a merchant needs to have in order to deliver the order. This kind of data is optional, and depends on the e-commerce CMS or the API settings merchant configured.
 
 **Troubleshooting an issue** happens when usually there’s a problem with the payment or retroactively if there’s a need for a refund. Centralized payment processors have their support departments that handle this type of queries for merchants, especially processors that are custodial and convert funds instantly to fiat. The essential data needed here needs to provide information about the payment which would allow merchants an easy way to detect an issue and take action. This usually contains a transaction ID, the amount, the invoice (transaction/transactions) status.
+
+## Invoice statuses
+
+Invoice statuses follow the lifecycle of an invoice from newly generated (unpaid) invoice to a paid. Statuses allow you to easier keep a track of 
+where every invoice is in their payment lifecycle. Different invoice statuses require different action.
+
+- Unpaid
+- Processing
+- Paid
+- Refunded
 
 ##### Data Structure of an invoice
 
