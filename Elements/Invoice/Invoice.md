@@ -17,19 +17,21 @@ The **purpose** of the invoice is:
 
 ### Invoice for a buyer
 
-The invoice displayed to the buyer should be focused on a smooth payment experience. This means clear instructions on how to pay a generated Bitcoin invoice with additional 
+The invoice displayed to the buyer should be focused on a smooth payment experience.
 
 #### Buyer's invoice components
 
 The basic components of an invoice visible to the buyer are:
 
-* A) QR Code with encoded amount and receiving address
-* B) Timer which sets invoice to expired (to avoid volatility in rates)
-* C) Invoice details (Total Price in fiat, Exchange rate, etc)
-* D) Total amount and an address that can be copied separately (for wallet desktop users)
-* E) Open in a wallet (Pay in a wallet) a button that opens and auto-populates sender's wallet fields
+* QR Code with encoded amount and receiving address
+* Timer which sets invoice to expired (to avoid volatility in rates)
+* Invoice details (Total Price in fiat, Exchange rate, etc)
+* Total amount and an address that can be copied separately (for wallet desktop users)
+* Open in a wallet (Pay in a wallet) a button that opens and auto-populates sender's wallet fields
 
-![Components of an invoice visible to buyer](/Assets/img/InvoicesViewBuyerSide.png)
+![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceScanTab.png)
+
+![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceCopyTab.png)
 
 ##### Invoice QR Code
 
@@ -44,6 +46,11 @@ The invoice timer should clearly indicate a sense of urgency to pay an invoice b
 ##### Invoice details
 
 When buyer makes a purchase and goes to the checkout, it's resonable to assume that they'd want to review their invoice details prior to commiting to a purchase. In the invoice detail, it is good practice to show invoice amount, network fee, etc.
+
+![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceScanTabInvoideDetails.png)
+
+![Components of an invoice visible to buyer](/Assets\img\Elements\Invoice\InvoiceCopyTabInvoideDetails.png)
+
 
 ##### Pay from a wallet button
 
