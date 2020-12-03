@@ -12,12 +12,12 @@ The **purpose** of the invoice is:
 
 **Invoicing in Bitcoin** isn't different from a traditional invoicing process. When generated, Bitcoin invoice should provide a way for customer to review order information and pay. For seller an invoice is used for recording a payment, fulfilling the order and troubleshooting an issue. 
 
+![Invoice flow](/Assets/img/Elements/Invoice/SimpleInvoiceFlow.png)
+
 ## Categorization
 
 * Buyer's invoice (payer)
 * Seller's invoice (receiver)
-
-![Invoice flow](/Assets/img/Elements/Invoice/SimpleInvoiceFlow.png)
 
 ### Invoice for a buyer
 
